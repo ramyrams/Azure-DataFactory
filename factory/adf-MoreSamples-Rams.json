@@ -1,0 +1,9 @@
+{
+	"name": "adf-MoreSamples-Rams",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45a44946-4c28-43da-9b60-2ca1388b1932",
+		"tenantId": "46fda763-bf63-4904-aa4b-106009fedd30"
+	}
+}
